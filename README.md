@@ -15,6 +15,6 @@ Manages students by interacting with the Student Database, providing methods to 
 Menu system
 A menu system which is a user interface, offering options to perform various actions like adding, updating, deleting, viewing students, or exiting the program. The main function initiates the system and runs an infinite loop to handle user inputs until the user decides to quit.
 
-HOW TO RUN THE CODE
+HOW TO RUN THE CODE:::
 For you to run this code you need a compiler (Visual Studio)
 
