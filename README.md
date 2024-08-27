@@ -1,4 +1,4 @@
-The student Management system written in python consists of three main parts listed below:
+This is a student Management system written in python and it consists of three main parts listed below:
 Student class: Represents individual students with attributes like ID, name, age, and major, and methods to update and display student information.
 
 StudentDatabase class: Acts as a container for storing all students, with methods to add, retrieve, remove, and list students.
