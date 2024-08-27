@@ -1,4 +1,4 @@
-# student.py
+mi# student.py
 class Student:
     def _init_(self, id, name, age, major):
         self.id = id
