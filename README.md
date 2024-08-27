@@ -1,4 +1,5 @@
 STUDENT MANAGEMENT SYSTEM
+
 This is a student Management system written in python and it consists of three main parts listed below: Student class: Represents individual students with attributes like 
 *ID,
 *Name
